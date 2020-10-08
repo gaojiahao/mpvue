@@ -25,7 +25,6 @@
   },
   "dependencies": {
     "mpvue": "^2.0.0",
-    "view-design": "^4.3.2",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
