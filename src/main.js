@@ -1,5 +1,8 @@
 import Vue from 'vue'
 import App from './App'
+import Tips from './config/tip'
+
+Vue.prototype.$tips=Tips
 
 Vue.config.productionTip = false
 App.mpType = 'app'

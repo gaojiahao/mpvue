@@ -1,3 +1,6 @@
+<style lang="stylus" type="text/stylus" rel="stylesheet/stylus">
+ @import "stylus/index.styl"
+</style>
 <script>
 export default {
   created () {
